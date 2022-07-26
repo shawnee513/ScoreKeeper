@@ -48,7 +48,7 @@
         android:padding="20dp"
         android:text="@string/placeholder_final_score"
         android:textAlignment="center"
-        android:textSize="36sp" />
+        android:textSize="64sp" />
 
     <Button
         android:id="@+id/gameOver_bt_new_game"
