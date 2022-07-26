@@ -13,4 +13,11 @@
     <string name="q2">Q2</string>
     <string name="q3">Q3</string>
     <string name="q4">Q4</string>
+    <string name="percentage_header">Shooting Percentages</string>
+    <string name="placeholder_percentage">0%</string>
+    <string name="button_ft">Free Throw</string>
+    <string name="button_2pt">2pt</string>
+    <string name="button_3pt">3pt</string>
+    <string name="button_missed">Missed Shot</string>
+    <string name="button_end_text">End Game</string>
 </resources>
